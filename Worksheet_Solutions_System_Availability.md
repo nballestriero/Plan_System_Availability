@@ -1,6 +1,7 @@
 # ✅ Solution Key with Step-by-Step Explanations
 _For: **Worksheet – System Availability (Series, Parallel, Hybrid)**_
-
+APPUNTO
+L'MTTF (Mean Time To Failure) è la durata media di vita di un componente non riparabile, e il tasso di guasto (lambda, λ) è il numero di guasti per unità di tempo. Se il tasso di guasto è costante, la relazione matematica è MTTF = 1/λ. L'MTTF indica il tempo medio prima del primo guasto, mentre il tasso di guasto λ esprime la probabilità che un componente si guasti in un dato intervallo di tempo. 
 ---
 
 ## Part A – Remember & Understand
